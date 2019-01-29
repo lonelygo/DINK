@@ -6,11 +6,9 @@
 
 ![DINK](img/profile.jpeg)
 
-# DINK 安装|DINK INSTALL
+# 快速使用| Quick Start
 
-1. [DINK准备|DINK PREPARATION](https://github.com/FPAI/DINK/wiki/DINK-PREPARATION)
-
-2. [安装运行DINK|INSTALL&RUN DINK](https://github.com/FPAI/DINK/wiki/INSTALL&RUN-DINK)
+[安装运行DINK|INSTALL&RUN DINK](https://github.com/FPAI/DINK/wiki/INSTALL&RUN-DINK)
 
 ![INSTALL DINK](img/launch.gif)
 

@@ -1,8 +1,8 @@
 # DINK V0.1
 
-DINK V0.2实现集成SqueezeSeg与VoxelNet，coming soon
-
 开放可实践应用自动驾驶框架|Open Practical Autonomous Driving Framework
+
+DINK V0.2实现集成SqueezeSeg与VoxelNet，coming soon
 
 # DINK:为什么中国人不能研发底层框架？|Why can't the Chinese develop the infrastructure framework?
 

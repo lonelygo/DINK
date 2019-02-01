@@ -22,9 +22,11 @@ DINK is a new generation of practical application of automatic driving framework
 
 ***
 
-# DINK三大特点：
+# DINK四大特点：
 
 1.自动驾驶全流程模块协同，从传感器数据采集到CAN信号输出反馈。
+
+2.兼并SOTA深度学习算法与传统算法，一键运行模拟。
 
 2.DINK中人工智能没有一点Caffe代码，纯Tensorflow。
   
@@ -36,13 +38,15 @@ DINK is a new generation of practical application of automatic driving framework
 
 2.下载运行DINK镜像。
 
-# DINK 3 main features:
+# DINK 4 main features:
 
 1.The whole process module of automatic driving works together, from sensor data collection to CAN signal output feedback.
 
-2. In DINK, artificial intelligence does not have any Caffe code; it is pure Tensorflow.
+2.Integrating SOTA deep learning algorithm and traditional algorithm, one-click operation simulation.
+
+3.In DINK, artificial intelligence does not have any Caffe code; it is pure Tensorflow.
   
-3. CUDA algorithm acceleration for high speed vehicle.
+4.CUDA algorithm acceleration for high speed vehicle.
 
 # DINK two-step installation:
 
